@@ -1,0 +1,38 @@
+From 0ab1e9e71b390d714a3f5b3e58ef79b9e7aef6a7 Mon Sep 17 00:00:00 2001
+From: Nathan-E-White <nwnn4@mail.missouri.edu>
+Date: Sun, 19 Mar 2023 16:47:06 -0500
+Subject: [PATCH] First commit, added .devcontainer skeleton, stubs for now.
+
+---
+ .devcontainer/Dockerfile                                   | 0
+ .devcontainer/devcontainer.json                            | 0
+ .devcontainer/local-features/nvs/devcontainer-feature.json | 0
+ .devcontainer/local-features/nvs/install.sh                | 0
+ .npmignore                                                 | 0
+ manifest.json                                              | 0
+ 6 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 .devcontainer/Dockerfile
+ create mode 100644 .devcontainer/devcontainer.json
+ create mode 100644 .devcontainer/local-features/nvs/devcontainer-feature.json
+ create mode 100644 .devcontainer/local-features/nvs/install.sh
+ create mode 100644 .npmignore
+ create mode 100644 manifest.json
+
+diff --git a/.devcontainer/Dockerfile b/.devcontainer/Dockerfile
+new file mode 100644
+index 0000000..e69de29
+diff --git a/.devcontainer/devcontainer.json b/.devcontainer/devcontainer.json
+new file mode 100644
+index 0000000..e69de29
+diff --git a/.devcontainer/local-features/nvs/devcontainer-feature.json b/.devcontainer/local-features/nvs/devcontainer-feature.json
+new file mode 100644
+index 0000000..e69de29
+diff --git a/.devcontainer/local-features/nvs/install.sh b/.devcontainer/local-features/nvs/install.sh
+new file mode 100644
+index 0000000..e69de29
+diff --git a/.npmignore b/.npmignore
+new file mode 100644
+index 0000000..e69de29
+diff --git a/manifest.json b/manifest.json
+new file mode 100644
+index 0000000..e69de29
